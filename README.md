@@ -1,12 +1,3 @@
-import React from 'react';
-import './Home.css';
-
-function Home() {
-	return (
-		<div className="">
-
-		</div>
-	)
-}
-
-export default Home;
+# AIRBNB CLONE
+You can checkout the hosted website here 
+https://samlak-airbnb.netlify.app/
